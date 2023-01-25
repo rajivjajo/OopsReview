@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultipleCompanies.iml" filepath="$PROJECT_DIR$/MultipleCompanies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopsReview.iml" filepath="$PROJECT_DIR$/OopsReview.iml" />
     </modules>
   </component>
 </project>
